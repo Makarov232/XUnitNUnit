@@ -1,5 +1,0 @@
-<Solution>
-  <Project Path="BankApp.Logic/BankApp.Logic.csproj" />
-  <Project Path="BankApp.Tests.NUnit/BankApp.Tests.NUnit.csproj" />
-  <Project Path="BankApp.Tests.XUnit/BankApp.Tests.XUnit.csproj" />
-</Solution>
